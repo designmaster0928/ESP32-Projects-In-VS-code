@@ -1,0 +1,56 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "f:/EXPERIENCE/VS_CODE/ESP32 project/arduino-simon-game-main/arduino-simon-game-main/include",
+                "f:/EXPERIENCE/VS_CODE/ESP32 project/arduino-simon-game-main/arduino-simon-game-main/src",
+                "C:/Users/RBI/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/RBI/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "f:/EXPERIENCE/VS_CODE/ESP32 project/arduino-simon-game-main/arduino-simon-game-main/include",
+                    "f:/EXPERIENCE/VS_CODE/ESP32 project/arduino-simon-game-main/arduino-simon-game-main/src",
+                    "C:/Users/RBI/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/RBI/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/RBI/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60109",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "C:/Users/RBI/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
